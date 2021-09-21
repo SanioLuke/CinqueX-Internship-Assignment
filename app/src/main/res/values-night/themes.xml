@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CinqueXAssignment" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/maincolor_1</item>
+        <item name="colorPrimaryDark">@color/maincolor_3</item>
+        <item name="colorAccent">@color/maincolor_2</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+</resources>
